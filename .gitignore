@@ -1,0 +1,6 @@
+config.php
+#Mac OS X Files
+.DS_Store
+
+#Vim leavebehinds
+*.swp
